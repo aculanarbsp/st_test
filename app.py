@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-
+from src.model_functions import build_model
 
 st.write("Hello, World!")
 
